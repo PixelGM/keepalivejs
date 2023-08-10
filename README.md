@@ -1,2 +1,2 @@
 # keepalivejs
-Keep Alive Script for hosting in Repl.it
+Keep Alive for Hosting 24/7 Bot in Replit.com using JavaScript.
